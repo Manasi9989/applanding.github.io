@@ -88,7 +88,7 @@
 		<div class="jumbotron" id="jumbotron">
 			<h1 class="display-4">My Awesome App!</h1>
 			<p class="lead">This is why YOU should download my app!</p>
-			<hr class="my-4">
+			<hr class="my-2">
 			<p>Want to know MORE! Join our mailing list!</p>
 			<form>
 				<div class="row justify-content-center">   
@@ -146,8 +146,7 @@
 	<div  id = "footer">
 	
 		
-			<h2>Download</h2>
-			<p class = "lead">Really why should i download this app</p>
+			<h2>Download by clicking on the download button</h2>
 			<a class="btn btn-primary" href="#" role="button">download</a>
 		
 		
