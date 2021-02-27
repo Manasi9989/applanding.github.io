@@ -148,7 +148,7 @@
 		
 			<h2>Download</h2>
 			<p class = "lead">Really why should i download this app</p>
-			<p><a href = ""><img id = "logo" src = "bg1.jpg"></a></p>
+			<a class="btn btn-primary" href="#" role="button">download</a>
 		
 		
 	
