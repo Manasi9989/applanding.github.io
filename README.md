@@ -87,7 +87,7 @@
 		</nav>
 		<div class="jumbotron" id="jumbotron">
 			<h1 class="display-4">My Awesome App!</h1>
-			<p class="lead">This is why YOU should download this fantastic app!</p>
+			<p class="lead">This is why YOU should download this app!</p>
 			<hr class="my-4">
 			<p>Want to know MORE! Join our mailing list!</p>
 			<form>
